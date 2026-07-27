@@ -1,15 +1,27 @@
 ---
-title: "ES152: Circuits, Devices, and Transduction"
+title: "Statistical Quality Control"
 collection: teaching
-type: "Undergraduate EE course"
-permalink: /teaching/es152
-venue: "Harvard University, Electrical Engineering Department"
-date: 2021-09-01
-location: "Cambridge, MA"
+type: "Undergraduate Industrial Engineering Course"
+permalink: /teaching/statistical-quality-control
+venue: "University of Kurdistan, Industrial Engineering Department"
+date: 2024-09-01
+location: "Sanandaj, KU"
 ---
 
-ES 152 is a core course for electrical engineering concentrators at Harvard. The class covers core circuit theory principles (KCL, RLC, amplifiers) and the fundamentals of semiconductor devices (BJTs, MOSFETs, transistor circuits) with the goal of modeling, analyzing, and applying the analog behavior of devices. I had the pleasure of working with Professors Gage Hills and Woodward Yang.
+Statistical Quality Control is an undergraduate industrial engineering course focused on using statistical methods to understand, monitor, and improve the quality of processes. The course covers topics related to process variation, control charts, process capability, acceptance sampling, and quality improvement. I had the pleasure of working with Prof. Hiwa Farughi as a teaching assistant.
+
+Here are some of the main parts of my teaching experience:
+
+### Helping students prepare for examinations
+
+I conducted problem-solving sessions and helped students review the main methods and calculations covered in the course. I also answered questions related to exercises and examination topics. In this experience, I used direct course resources from Sharif University of Technology to present.
+
+### Connection to real production systems
+
+A particularly important aspect of Statistical Quality Control is that it connects statistical analysis with practical manufacturing decisions. The methods introduced in this course can help engineers detect process changes, reduce variability, and improve the reliability of industrial operations.
 
 ### What I did:
-* Ran office hours for the lab sessions - teaching students how to construct circuits and perform calculations for properly choosing circuit components.
-* Graded labs and exams.
+* Conducted problem-solving sessions
+* Answered students’ questions
+* Helped students prepare for examinations
+* Supported the review of statistical quality-control methods
