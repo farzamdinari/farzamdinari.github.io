@@ -8,7 +8,7 @@ date: 2025-02-01
 location: "Sanandaj, KU"
 ---
 
-Linear Algebra is a foundational mathematics course for industrial engineering students. The course introduces mathematical tools that are widely used in optimization, data analysis, machine learning, operations research, and decision-making models. I had the pleasure of working with Prof. Anwar Mahmoodi as a teaching assistant, conducting problem-solving sessions and helping students with their questions.
+Linear Algebra is a foundational mathematics course for industrial engineering students. The course introduces mathematical tools that are widely used in optimization, data analysis, machine learning, operations research, and decision-making models. I had the pleasure of working with Prof. Anwar Mahmoodi as a teaching assistant, conducting problem-solving sessions and helping students with their questions. In this experience, I used resources and sample questions from Sharif University of Technology to present.
 
 Here are some of the main parts of my teaching experience:
 
