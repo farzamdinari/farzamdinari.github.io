@@ -1,19 +1,26 @@
 ---
-title: "CS61: Systems Programming and Machine Organization"
+title: "Linear Algebra"
 collection: teaching
-type: "Undergraduate CS course"
-permalink: /teaching/cs61
-venue: "Harvard University, Computer Science Department"
-date: 2020-09-01
-location: "Cambridge, MA"
+type: "Undergraduate Mathematics course"
+permalink: /teaching/linear-algebra
+venue: "University of Kurdistan, Industrial Engineering Department"
+date: 2025-02-01
+location: "Sanandaj, KU"
 ---
 
-[CS 61](https://cs61.seas.harvard.edu/) is the introductory systems programming class at Harvard, normally with around 200 students enrolled. Main topics include: C, C++, and assembly language programming, performance analysis and improvement strategies, memory management, caching, concurrency, threads, and synchronization. The class is taught by Professor [Eddie Kohler](https://read.seas.harvard.edu/~kohler/) with around 15-20 teaching fellows every year (of which I'm one!).
+Linear Algebra is a foundational mathematics course for industrial engineering students. The course introduces mathematical tools that are widely used in optimization, data analysis, machine learning, operations research, and decision-making models. I had the pleasure of working with Prof. Anwar Mahmoodi as a teaching assistant, conducting problem-solving sessions and helping students with their questions.
 
-Here's some of my favorite parts of the class:
+Here are some of the main parts of my teaching experience:
 
-### My favorite section to teach: [virtual memory](https://cs61.seas.harvard.edu/site/2021/Section6/)!
-I love page tables! It's a unique data structure that allows us to map a huge address range with relatively few pages. Also the idea of virtual memory, while a simple one, is extremely powerful. I love blowing students' minds with the idea of a virtaul and physical address space and that this conversion is actually done on hardware.
+### Problem-solving sessions
+During the course, I helped students work through mathematical exercises and better understand the reasoning behind different solution methods. Rather than focusing only on final answers, the sessions aimed to clarify how matrices, systems of equations, vector spaces, and related concepts can be approached step by step.
 
-### My favorite problem set: [Shell](https://cs61.seas.harvard.edu/site/2021/Shell/)!
-While one of the most challenging of the assignments, it's also so cool to build your own functioning shell. Also I think in terms of software design it has the most interesting design decisions in terms of how you want to structure and parse your commands. Also I think being able to fork off subshells and commands is such a cool concept and really allows for students to get a more concrete idea of process creation.
+### Connection to industrial engineering
+One reason I find Linear Algebra particularly valuable is its connection to many areas of industrial engineering. Matrix-based methods appear in optimization, machine learning, production planning, data analytics, and decision-support systems. Understanding these foundations makes it easier to approach more advanced quantitative problems.
+
+### What I did
+
+- Conducted problem-solving sessions
+- Helped students with exercises and course questions
+- Supported students in reviewing mathematical concepts
+- Assisted students with questions related to examinations
