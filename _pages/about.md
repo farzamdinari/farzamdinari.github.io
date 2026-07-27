@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a fifth-year PhD candidate in CMU's ECE program working with [Prof. Akshitha Sriraman](https://users.ece.cmu.edu/~asrirama/). My research passion lies in finding novel ways to make cloud/web systems more sustainable by targeting more efficient use of data center resources (particularly hardware) in order to reduce carbon emissions, e-waste, and other environmental impacts from hyperscale systems. This spans the compute stack — from designing low-carbon servers (my GreenSKU work, an IEEE Micro Top Pick with production impact at Microsoft Azure) to extending the useful lifetime of existing servers through intelligent scheduling.
+Hello! I am Farzam Dinari, a B.Sc. graduate in Industrial Engineering from the University of Kurdistan, with a minor in Law. I also studied as a guest student at Sharif University of Technology and K. N. Toosi University of Technology.
 
-Prior to starting my PhD, I graduated from Harvard University (Class of 2022), where I studied Electrical Engineering and Computer Science. I was fortunate to work with Profs. [David Brooks](https://www.eecs.harvard.edu/~dbrooks/) and [Gu-Yeon Wei](https://www.eecs.harvard.edu/~gywei/) on projects related to sustainable computing and fault analysis for machine learning.
+My research interests lie at the intersection of artificial intelligence, robotics, decision theory, and industrial engineering. I am particularly interested in optimization and designing intelligent decision-making systems for manufacturing, production, supply chains, and project environments. My undergraduate thesis focused on supplier selection using multi-criteria decision-making methods, and I have also contributed to an artificial-neural-network study on road accident prediction.
 
-While you're here, participate in my anonymous, very scientific ✨**<a href="https://forms.gle/NiYerAvgQ5JkidE5A" target="_blank">data collection</a>**✨. I'm trying to see some things. Once you fill it out, you'll get a passcode which you can use to view the [survey results]({{ site.url }}/survey-results/).
+During my undergraduate studies, I worked on projects involving production planning, quality control, information systems, maintenance, process analysis, and industrial management. These experiences motivated me to explore how artificial intelligence, optimization, and robotics can improve the autonomy, efficiency, reliability, and adaptability of factories and industrial systems.
 
-The best way to contact me is through email: `jaylenw [at] andrew.cmu.edu`.
+The best way to contact me is through email: `farzam.dinari2003Id [at] gmail.com`.
 
 What've I been up to?
 ======
@@ -22,18 +22,18 @@ What've I been up to?
 
 Research interests
 ======
-* Data center systems
-* Sustainable computing
-* Computer architecture
-* Hardware/software co-design
+* Operations research and optimization
+* Supply chain and project management
+* Decision theory and decision support systems
+* Smart manufacturing and industrial production systems
+* Robotics and autonomous systems
 
 Hobbies/interests (not that you asked)
 ======
-* 🎾 I've played tennis most of my life. I still enjoy playing regularly (through CMU's club tennis team and with friends). Still trying to figure out how a backhand volley works (seems like there's a gap in the literature in this).
-* 🏀 I'm a big fan of the NBA, particularly of the Boston Celtics. If there's a Celtics game on, I'll either be watching or wishing I were watching. If you also love Derrick White and Al Horford, we'll get along.
-* 🍽️ I love making, talking about, and eating food. I may ask you questions such as "what fruit do you think is underrated?". I apologize in advance.
-* 🌲 I enjoy hiking and basically anything with fresh air. Always chasing the thrill of eating a day-old PB&J after reaching the top.
+* 🤖 I enjoy learning about robotics and hands-on technical projects. I previously participated in building a quadcopter and remain curious about how intelligent machines perceive, decide, and act.
+* 🥋 Sports have always been part of my interests. I enjoy mixed martial arts, wrestling, basketball, and chess, although chess is the only one that lets me sit down while losing.
+* 🎸 I enjoy music and playing guitar, as well as calligraphy and poetry. I like activities that combine creativity, patience, and a slightly unreasonable amount of practice.
+* 📚 I am interested in mathematics, physics, philosophy, and technology, especially when ideas from different fields come together to solve practical engineering problems.
 * 🎧 I love listening to podcasts (of almost any kind) and reading books (especially non-fiction, memoirs, and poetry). Please give me recs :)
-* 🎵 My proudest achievement is making a [Spotify playlist](https://open.spotify.com/playlist/4XbLl7tRLmlxVxLR08Fxs2) with <span id="playlist-saves"></span> followers<span id="deltas-wrapper" style="display: none;"> (<span id="delta-1d"></span> today, <span id="delta-7d"></span> past week)</span> as of <span id="last-updated"></span>. And one of the greatest gifts I've received is a [fun website](https://isamsiu.github.io/spotify_saves_tracker/) that tracks and plots the saves over time.
 
 <script src="/assets/js/playlist-saves.js"></script>
