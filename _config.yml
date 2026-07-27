@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaylen Wang"
+title                    : "Farzam Dinari"
 title_separator          : "-"
-name                     : &name "Jaylen Wang"
+name                     : &name "Farzam Dinari"
 description              : &description "personal description"
-url                      : https://jaylenwang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://farzamdinari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaylenwang7.github.io"
+repository               : "farzamdinari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaylen Wang"
-  avatar           : "profile2.jpg"
-  bio              : "PhD Candidate @CMU ECE"
-  location         : "Pittsburgh, PA"
-  employer         :
+  name             : "Farzam Dinari"
+  avatar           : "profile.jpg"
+  bio              : "B.Sc. Graduate in IE"
+  location         : "Tehran, IR"
+  employer         : "University of Kurdistan"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=XZeSn5wAAAAJ&hl=en"
-  email            : "jaylenw@andrew.cmu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    :
+  email            : "farzam.dinari2003id@gmail.com"
+  researchgate     :
+  uri              : "https://farzamdinari.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jaylenwang7"
+  github           : "farzamdinari"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "farzamdinari"
+  impactstory      : 
   lastfm           :
-  linkedin         : "jaylen-wang"
-  orcid            : "https://orcid.org/0000-0001-6868-7169"
+  linkedin         : "farzamdinari"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "wang_jaylen"
+  twitter          :
   vine             :
   weibo            :
   xing             :
