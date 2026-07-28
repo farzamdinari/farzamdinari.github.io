@@ -1,13 +1,23 @@
 ---
-title: "Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors"
+authors: Maedeh GholamAzad, Mohammad Adib Fathi, Amir Hossien Tajik, <u>Farzam Dinari</u>
+
+bibtex: "@inproceedings{gholamazad2025accidents,
+    title     = {Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors},
+    author    = {GholamAzad, Maedeh and Fathi, Mohammad Adib and Tajik, Amir Hossien and Dinari, Farzam},
+    booktitle = {The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control},
+    address   = {University of Isfahan, Iran},
+    year      = {2025}
+}"
+
+citation: M. GholamAzad, M. A. Fathi, A. H. Tajik, and F. Dinari, "Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors," in <i>The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control</i>, University of Isfahan, Iran, 2025.
+
 collection: publications
-category: conferences
-permalink: /publication/2025-extra-urban-accident-prediction
-excerpt: "This study applies a Multilayer Perceptron neural network to predict extra-urban accident rates across ten Iranian provinces and identify important road-safety and infrastructure factors."
+conf_shorthand: AITC
 date: 2025-02-25
-venue: "The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control"
-paperurl: "https://farzamdinari.github.io/files/Farzam_Dinari_Accident_Prediction_2025.pdf"
-citation: 'M. GholamAzad, M. A. Fathi, A. H. Tajik, and F. Dinari (2025). "Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors." <i>The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control</i>, University of Isfahan, Iran.'
+paperurl: https://farzamdinari.github.io/files/Farzam_Dinari_Accident_Prediction_2025.pdf
+title: Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors
+venue: The First Biennial National Conference on the Application of Artificial Intelligence in Traffic Control
+venue_type: conference
 ---
 
 This conference paper investigates the prediction of extra-urban road accident rates across ten Iranian provinces using artificial intelligence and transportation-related factors.
