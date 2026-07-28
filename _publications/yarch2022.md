@@ -1,4 +1,5 @@
 ---
+published: false
 authors: <u>Jaylen Wang</u>, Abdulrahman Mahmoud, David Brooks, Gu-Yeon Wei
 bibtex: "@inproceedings{wang2022dataflow,\n    title={A Dataflow-Aware Fault Resilience\
   \ Analysis Framework for Deep Neural Network Accelerators},\n    author={Wang, Jaylen\
