@@ -1,7 +1,7 @@
 ---
 title: "Predicted the Rate of Extra-Urban Accidents in Ten Iranian Provinces Using Artificial Intelligent Based on Influencing Factors"
 collection: publications
-category: conferences
+category: conference
 permalink: /publication/2025-extra-urban-accident-prediction
 excerpt: "This study applies a Multilayer Perceptron neural network to predict extra-urban accident rates across ten Iranian provinces and identify important road-safety and infrastructure factors."
 date: 2025-02-25
