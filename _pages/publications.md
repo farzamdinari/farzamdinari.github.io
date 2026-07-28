@@ -58,10 +58,7 @@ My published and ongoing research work is listed below.
 {% assign other_papers = "" | split: "" %}
 
 {% for post in all_papers %}
-  {% unless post.venue_type == 'conference'
-     or post.venue_type == 'manuscript'
-     or post.venue_type == 'journal'
-     or post.venue_type == 'workshop' %}
+ {% unless post.venue_type == 'conference' or post.venue_type == 'manuscript' or post.venue_type == 'journal' or post.venue_type == 'workshop' %}
 
     {% assign other_papers = other_papers | push: post %}
 
