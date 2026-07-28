@@ -1,4 +1,5 @@
 ---
+published: false
 authors: Sahana Rangarajan, Xuesi Chen, Pratyush Patel, <u>Jaylen Wang</u>, Akshitha
   Sriraman
 bibtex: "@inproceedings{rangarajan2022designing,\n    title={Designing Equitable Data\
