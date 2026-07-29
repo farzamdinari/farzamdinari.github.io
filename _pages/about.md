@@ -10,8 +10,6 @@ redirect_from:
 
 Hello! I am Farzam Dinari, a B.Sc. graduate in Industrial Engineering from the University of Kurdistan, with an academic background in Law and additional academic experience at Sharif University of Technology and K. N. Toosi University of Technology.
 
-My research interests lie in decision science, optimization, intelligent systems, supply chain management, project management, robotics, artificial intelligence, and smart manufacturing.
-
 My undergraduate thesis project focused on supplier selection in supply chain management using Multi-Criteria Decision-Making methods. In this work, I reviewed and compared different MCDM approaches and explored methods for evaluating the consistency and reliability of supplier rankings.
 
 I also served as an undergraduate research assistant on a talent management project focused on identifying employee capabilities, evaluating key competencies, and aligning individuals with suitable organizational roles.
