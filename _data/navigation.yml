@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Survey Results"
-    url: /survey-results/
+  # - title: "Survey Results"
+  #   url: /survey-results/
