@@ -2,6 +2,7 @@
 layout: default
 title: "Survey Results"
 permalink: /survey-results/
+published: false
 ---
 
 <div id="passcode-form" style="text-align: center; margin: 50px 0;">
