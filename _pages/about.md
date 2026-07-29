@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Farzam Dinari, a B.Sc. graduate in Industrial Engineering from the University of Kurdistan, with a minor in Law. I also studied as a guest student at Sharif University of Technology and K. N. Toosi University of Technology.
+Hello! I am Farzam Dinari, a B.Sc. graduate in Industrial Engineering from the University of Kurdistan, with an academic background in Law and additional academic experience at Sharif University of Technology and K. N. Toosi University of Technology. My interdisciplinary background has allowed me to explore engineering, management, technology, and legal studies from different perspectives.
 
-My research interests lie at the intersection of artificial intelligence, robotics, decision theory, and industrial engineering. I am particularly interested in optimization and designing intelligent decision-making systems for manufacturing, production, supply chains, and project environments. My undergraduate thesis focused on supplier selection using multi-criteria decision-making methods, and I have also contributed to an artificial-neural-network study on road accident prediction.
+My research interests lie in decision science, optimization, intelligent systems, supply chain management, project management, robotics, artificial intelligence, and smart manufacturing.
 
-During my undergraduate studies, I worked on projects involving production planning, quality control, information systems, maintenance, process analysis, and industrial management. These experiences motivated me to explore how artificial intelligence, optimization, and robotics can improve the autonomy, efficiency, reliability, and adaptability of factories and industrial systems.
+My undergraduate thesis project focused on supplier selection in supply chain management using Multi-Criteria Decision-Making methods. In this work, I reviewed and compared different MCDM approaches and explored methods for evaluating the consistency and reliability of supplier rankings.
+
+I also served as an undergraduate research assistant on a talent management project focused on identifying employee capabilities, evaluating key competencies, and aligning individuals with suitable organizational roles.
+
+I am a co-author of a published conference paper that applies a Multilayer Perceptron neural network to predict extra-urban road accident rates across ten Iranian provinces. The model achieved a prediction accuracy of 85.3% and identified important transportation and road-infrastructure factors.
+
+Beyond academia, I have gained professional experience in business management, production planning, project operations, and organizational development. These experiences have strengthened my interest in connecting academic research with practical industrial, technological, and managerial challenges.
+
+The purpose of education is not to collect grades, but to develop understanding, judgment, and experience.
 
 The best way to contact me is through email: `farzam.dinari2003Id [at] gmail.com`.
 
